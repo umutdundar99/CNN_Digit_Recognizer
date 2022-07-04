@@ -1,4 +1,4 @@
-# CNN_Mask_Detection
+# CNN_Digit_Recognizer
 A Basic CNN application classification problem.
 The model has been trained from scratch to reinforce my deep learning knowledge as a beginner
 
